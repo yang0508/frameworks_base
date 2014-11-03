@@ -992,9 +992,6 @@ public class TabletStatusBar extends BaseStatusBar implements
     }
 
     public void showClock(boolean show) {
-        if (mClock != null) {
-            mClock.setHidden(!show);
-        }
         View networkText = mBarContents.findViewById(R.id.network_text);
         if (networkText != null) {
             networkText.setVisibility(show ? View.GONE : View.VISIBLE);
@@ -1672,9 +1669,6 @@ public class TabletStatusBar extends BaseStatusBar implements
     public void userSwitched(int newUserId) {
         if (mSignalView != null) {
             mSignalView.updateSettings();
-        }
-        if (mClock != null) {
-            mClock.updateSettings();
         }
         if (mBatteryController != null) {
             mBatteryController.updateSettings();
