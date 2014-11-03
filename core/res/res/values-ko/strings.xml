@@ -133,27 +133,27 @@
     <string name="low_memory" product="default" msgid="3475999286680000541">"휴대전화 저장공간이 꽉 찼습니다. 일부 파일을 삭제하여 저장공간을 늘리세요."</string>
     <string name="me" msgid="6545696007631404292">"나"</string>
     <string name="power_dialog" product="tablet" msgid="8545351420865202853">"태블릿 옵션"</string>
-    <string name="power_dialog" product="default" msgid="1319919075463988638">"휴대전화 옵션"</string>
+    <string name="power_dialog" product="default" msgid="1319919075463988638">"휴대폰 옵션"</string>
     <string name="silent_mode" msgid="7167703389802618663">"무음 모드"</string>
     <string name="turn_on_radio" msgid="3912793092339962371">"무선 사용"</string>
     <string name="turn_off_radio" msgid="8198784949987062346">"무선 끄기"</string>
     <string name="screen_lock" msgid="799094655496098153">"화면 잠금"</string>
-    <string name="power_off" msgid="4266614107412865048">"종료"</string>
+    <string name="power_off" msgid="4266614107412865048">"휴대폰 종료"</string>
     <string name="silent_mode_silent" msgid="319298163018473078">"벨소리가 무음입니다."</string>
     <string name="silent_mode_vibrate" msgid="7072043388581551395">"벨소리가 진동입니다."</string>
     <string name="silent_mode_ring" msgid="8592241816194074353">"벨소리가 켜져 있습니다."</string>
-    <string name="shutdown_progress" msgid="2281079257329981203">"종료 중..."</string>
+    <string name="shutdown_progress" msgid="2281079257329981203">"휴대폰이 종료됩니다."</string>
     <string name="shutdown_confirm" product="tablet" msgid="3385745179555731470">"태블릿이 종료됩니다."</string>
-    <string name="shutdown_confirm" product="default" msgid="649792175242821353">"휴대전화가 종료됩니다."</string>
+    <string name="shutdown_confirm" product="default" msgid="649792175242821353">"휴대폰이 종료됩니다."</string>
     <string name="shutdown_confirm_question" msgid="2906544768881136183">"종료하시겠습니까?"</string>
     <string name="reboot_safemode_title" msgid="7054509914500140361">"안전 모드로 다시 부팅"</string>
     <string name="reboot_safemode_confirm" msgid="55293944502784668">"안전 모드로 다시 부팅하시겠습니까? 그러면 설치한 모든 제3자 애플리케이션을 사용할 수 없게 됩니다. 다시 부팅을 반복하면 애플리케이션이 복원됩니다."</string>
     <string name="recent_tasks_title" msgid="3691764623638127888">"최근 사용한 앱"</string>
     <string name="no_recent_tasks" msgid="8794906658732193473">"최근에 사용한 앱이 없습니다."</string>
     <string name="global_actions" product="tablet" msgid="408477140088053665">"태블릿 옵션"</string>
-    <string name="global_actions" product="default" msgid="2406416831541615258">"휴대전화 옵션"</string>
+    <string name="global_actions" product="default" msgid="2406416831541615258">"휴대폰 옵션"</string>
     <string name="global_action_lock" msgid="2844945191792119712">"화면 잠금"</string>
-    <string name="global_action_power_off" msgid="4471879440839879722">"종료"</string>
+    <string name="global_action_power_off" msgid="4471879440839879722">"휴대폰 종료"</string>
     <string name="global_action_bug_report" msgid="7934010578922304799">"버그 신고"</string>
     <string name="bugreport_title" msgid="2667494803742548533">"버그 신고 받기"</string>
     <string name="bugreport_message" msgid="398447048750350456">"이렇게 하면 현재 기기 상태에 대한 정보를 수집하여 이메일 메시지로 전송합니다. 버그 신고를 시작하여 전송할 준비가 되려면 약간 시간이 걸립니다."</string>
@@ -433,17 +433,17 @@
     <string name="permlab_installLocationProvider" msgid="6578101199825193873">"위치 정보 공급자 설치 권한"</string>
     <string name="permdesc_installLocationProvider" msgid="9066146120470591509">"테스트용 가상 위치 소스를 만들거나 새로운 위치 정보 제공업체를 설치합니다. 이 경우 앱이 GPS 또는 위치 정보 제공업체 등 기타 위치 소스가 반환한 위치 또는 상태를 덮어쓸 수 있습니다."</string>
     <string name="permlab_accessFineLocation" msgid="1191898061965273372">"정확한 위치(GPS 및 네트워크 기반)"</string>
-    <string name="permdesc_accessFineLocation" msgid="5295047563564981250">"앱에서 GPS 또는 기지국 및 Wi-Fi와 같은 네트워크 위치 제공자를 사용하는 위치 서비스를 통해 내 정확한 위치를 알 수 있도록 합니다. 앱에서 이를 사용하도록 하려면 기기에서 이러한 위치 서비스는 사용하도록 설정해야 합니다. 앱에서 위치 서비스를 사용하여 내 위치를 파악할 수 있으며 배터리 소모량이 증가할 수 있습니다."</string>
+    <string name="permdesc_accessFineLocation" msgid="5295047563564981250">"앱에서 GPS 또는 기지국 및 와이파이와 같은 네트워크 위치 제공자를 사용하는 위치 서비스를 통해 내 정확한 위치를 알 수 있도록 합니다. 앱에서 이를 사용하도록 하려면 기기에서 이러한 위치 서비스는 사용하도록 설정해야 합니다. 앱에서 위치 서비스를 사용하여 내 위치를 파악할 수 있으며 배터리 소모량이 증가할 수 있습니다."</string>
     <string name="permlab_accessCoarseLocation" msgid="4887895362354239628">"대략적인 위치(네트워크 기반)"</string>
-    <string name="permdesc_accessCoarseLocation" msgid="2538200184373302295">"앱에서 나의 대략적인 위치를 알 수 있게 합니다. 이 위치는 기지국 및 Wi-Fi와 같은 네트워크 위치 제공자를 사용하는 위치 서비스를 통해 알 수 있습니다. 앱에서 이를 사용하도록 하려면 기기에서 이러한 위치 서비스를 사용하도록 설정해야 합니다. 앱에서 이를 사용하여 나의 대략적인 위치를 파악할 수 있습니다."</string>
+    <string name="permdesc_accessCoarseLocation" msgid="2538200184373302295">"앱에서 나의 대략적인 위치를 알 수 있게 합니다. 이 위치는 기지국 및 와이파이와 같은 네트워크 위치 제공자를 사용하는 위치 서비스를 통해 알 수 있습니다. 앱에서 이를 사용하도록 하려면 기기에서 이러한 위치 서비스를 사용하도록 설정해야 합니다. 앱에서 이를 사용하여 나의 대략적인 위치를 파악할 수 있습니다."</string>
     <string name="permlab_accessSurfaceFlinger" msgid="2363969641792388947">"SurfaceFlinger 액세스"</string>
     <string name="permdesc_accessSurfaceFlinger" msgid="1041619516733293551">"앱이 SurfaceFlinger의 하위 수준 기능을 사용할 수 있도록 허용합니다."</string>
     <string name="permlab_readFrameBuffer" msgid="6690504248178498136">"프레임 버퍼 읽기"</string>
     <string name="permdesc_readFrameBuffer" msgid="4937405521809454680">"앱이 프레임 버퍼의 내용을 읽을 수 있도록 허용합니다."</string>
-    <string name="permlab_configureWifiDisplay" msgid="5595661694746742168">"Wi-Fi 디스플레이 설정"</string>
-    <string name="permdesc_configureWifiDisplay" msgid="7916815158690218065">"앱이 Wi-Fi 디스플레이를 설정하고 연결하도록 허용합니다."</string>
-    <string name="permlab_controlWifiDisplay" msgid="393641276723695496">"Wi-Fi 디스플레이 제어"</string>
-    <string name="permdesc_controlWifiDisplay" msgid="4543912292681826986">"앱이 Wi-Fi 디스플레이의 하위 수준 기능을 제어하도록 허용합니다."</string>
+    <string name="permlab_configureWifiDisplay" msgid="5595661694746742168">"와이파이 디스플레이 설정"</string>
+    <string name="permdesc_configureWifiDisplay" msgid="7916815158690218065">"앱이 와이파이 디스플레이를 설정하고 연결하도록 허용합니다."</string>
+    <string name="permlab_controlWifiDisplay" msgid="393641276723695496">"와이파이 디스플레이 제어"</string>
+    <string name="permdesc_controlWifiDisplay" msgid="4543912292681826986">"앱이 와이파이 디스플레이의 하위 수준 기능을 제어하도록 허용합니다."</string>
     <string name="permlab_modifyAudioSettings" msgid="6095859937069146086">"오디오 설정 변경"</string>
     <string name="permdesc_modifyAudioSettings" msgid="3522565366806248517">"앱이 음량이나 출력을 위해 사용하는 스피커 등 전체 오디오 설정을 변경할 수 있도록 허용합니다."</string>
     <string name="permlab_recordAudio" msgid="3876049771427466323">"오디오 녹음"</string>
@@ -547,13 +547,13 @@
     <string name="permdesc_changeTetherState" msgid="1524441344412319780">"앱이 테더링된 네트워크 연결 상태를 변경할 수 있도록 허용합니다."</string>
     <string name="permlab_changeBackgroundDataSetting" msgid="1400666012671648741">"백그라운드 데이터 사용 설정 변경"</string>
     <string name="permdesc_changeBackgroundDataSetting" msgid="5347729578468744379">"앱이 백그라운드 데이터 사용 설정을 변경할 수 있도록 허용합니다."</string>
-    <string name="permlab_accessWifiState" msgid="5202012949247040011">"Wi-Fi 연결 보기"</string>
-    <string name="permdesc_accessWifiState" msgid="5002798077387803726">"앱이 Wi-Fi를 사용하도록 설정했는지 여부나 연결된 Wi-Fi 기기의 이름 등의 Wi-Fi 네트워킹에 대한 정보를 볼 수 있도록 허용합니다."</string>
-    <string name="permlab_changeWifiState" msgid="6550641188749128035">"Wi-Fi 연결 및 연결 해제"</string>
-    <string name="permdesc_changeWifiState" msgid="7137950297386127533">"앱이 Wi-Fi 액세스 포인트에 연결하거나 연결을 끊고, Wi-Fi 네트워크의 기기 설정을 변경할 수 있도록 허용합니다."</string>
-    <string name="permlab_changeWifiMulticastState" msgid="1368253871483254784">"Wi-Fi 멀티캐스트 수신 허용"</string>
-    <string name="permdesc_changeWifiMulticastState" product="tablet" msgid="7969774021256336548">"앱이 사용자의 태블릿뿐 아니라 멀티캐스트 주소를 사용하여 Wi-Fi 네트워크에서 모든 기기로 전송된 패킷을 받도록 허용합니다. 이 경우 비멀티캐스트 모드보다 전력을 더 많이 소비합니다."</string>
-    <string name="permdesc_changeWifiMulticastState" product="default" msgid="6851949706025349926">"앱이 사용자의 휴대전화뿐 아니라 멀티캐스트 주소를 사용하여 Wi-Fi 네트워크에서 모든 기기로 전송된 패킷을 받을 수 있도록 허용합니다. 이 경우 비멀티캐스트 모드보다 전력을 더 많이 소비합니다."</string>
+    <string name="permlab_accessWifiState" msgid="5202012949247040011">"와이파이 연결 보기"</string>
+    <string name="permdesc_accessWifiState" msgid="5002798077387803726">"앱이 와이파이를 사용하도록 설정했는지 여부나 연결된 와이파이 기기의 이름 등의 와이파이 네트워킹에 대한 정보를 볼 수 있도록 허용합니다."</string>
+    <string name="permlab_changeWifiState" msgid="6550641188749128035">"와이파이 연결 및 연결 해제"</string>
+    <string name="permdesc_changeWifiState" msgid="7137950297386127533">"앱이 와이파이 액세스 포인트에 연결하거나 연결을 끊고, 와이파이 네트워크의 기기 설정을 변경할 수 있도록 허용합니다."</string>
+    <string name="permlab_changeWifiMulticastState" msgid="1368253871483254784">"와이파이 멀티캐스트 수신 허용"</string>
+    <string name="permdesc_changeWifiMulticastState" product="tablet" msgid="7969774021256336548">"앱이 사용자의 태블릿뿐 아니라 멀티캐스트 주소를 사용하여 와이파이 네트워크에서 모든 기기로 전송된 패킷을 받도록 허용합니다. 이 경우 비멀티캐스트 모드보다 전력을 더 많이 소비합니다."</string>
+    <string name="permdesc_changeWifiMulticastState" product="default" msgid="6851949706025349926">"앱이 사용자의 휴대전화뿐 아니라 멀티캐스트 주소를 사용하여 와이파이 네트워크에서 모든 기기로 전송된 패킷을 받을 수 있도록 허용합니다. 이 경우 비멀티캐스트 모드보다 전력을 더 많이 소비합니다."</string>
     <string name="permlab_bluetoothAdmin" msgid="6006967373935926659">"블루투스 설정에 액세스"</string>
     <string name="permdesc_bluetoothAdmin" product="tablet" msgid="6921177471748882137">"앱이 로컬 블루투스 태블릿을 설정한 다음 원격 기기를 검색하여 페어링할 수 있도록 허용합니다."</string>
     <string name="permdesc_bluetoothAdmin" product="default" msgid="8931682159331542137">"앱이 로컬 블루투스 휴대전화를 설정한 다음 원격 기기를 검색하여 페어링할 수 있도록 허용합니다."</string>
@@ -1098,23 +1098,23 @@
     <string name="ringtone_picker_title" msgid="3515143939175119094">"벨소리"</string>
     <string name="ringtone_unknown" msgid="5477919988701784788">"알 수 없는 벨소리"</string>
   <plurals name="wifi_available">
-    <item quantity="one" msgid="6654123987418168693">"Wi-Fi 네트워크 사용 가능"</item>
-    <item quantity="other" msgid="4192424489168397386">"Wi-Fi 네트워크 사용 가능"</item>
+    <item quantity="one" msgid="6654123987418168693">"와이파이 네트워크 사용 가능"</item>
+    <item quantity="other" msgid="4192424489168397386">"와이파이 네트워크 사용 가능"</item>
   </plurals>
   <plurals name="wifi_available_detailed">
-    <item quantity="one" msgid="1634101450343277345">"개방형 Wi-Fi 네트워크 사용 가능"</item>
-    <item quantity="other" msgid="7915895323644292768">"개방형 Wi-Fi 네트워크 사용 가능"</item>
+    <item quantity="one" msgid="1634101450343277345">"개방형 와이파이 네트워크 사용 가능"</item>
+    <item quantity="other" msgid="7915895323644292768">"개방형 와이파이 네트워크 사용 가능"</item>
   </plurals>
-    <string name="wifi_available_sign_in" msgid="4029489716605255386">"Wi-Fi 네트워크에 로그인"</string>
+    <string name="wifi_available_sign_in" msgid="4029489716605255386">"와이파이 네트워크에 로그인"</string>
     <string name="network_available_sign_in" msgid="8495155593358054676">"네트워크에 로그인"</string>
     <!-- no translation found for network_available_sign_in_detailed (8000081941447976118) -->
     <skip />
-    <string name="wifi_watchdog_network_disabled" msgid="7904214231651546347">"Wi-Fi에 연결할 수 없습니다"</string>
+    <string name="wifi_watchdog_network_disabled" msgid="7904214231651546347">"와이파이에 연결할 수 없습니다"</string>
     <string name="wifi_watchdog_network_disabled_detailed" msgid="5548780776418332675">" 인터넷 연결 상태가 좋지 않습니다."</string>
-    <string name="wifi_p2p_dialog_title" msgid="97611782659324517">"Wi-Fi Direct"</string>
-    <string name="wifi_p2p_turnon_message" msgid="2909250942299627244">"Wi-Fi Direct 작업을 시작합니다. 이 작업을 하면 Wi-Fi 클라이언트/핫스팟 작업이 중지됩니다."</string>
-    <string name="wifi_p2p_failed_message" msgid="3763669677935623084">"Wi-Fi Direct를 시작하지 못했습니다."</string>
-    <string name="wifi_p2p_enabled_notification_title" msgid="2068321881673734886">"Wi-Fi Direct 켜짐"</string>
+    <string name="wifi_p2p_dialog_title" msgid="97611782659324517">"와이파이 다이렉트"</string>
+    <string name="wifi_p2p_turnon_message" msgid="2909250942299627244">"와이파이 다이렉트 작업을 시작합니다. 이 작업을 하면 와이파이 클라이언트/핫스팟 작업이 중지됩니다."</string>
+    <string name="wifi_p2p_failed_message" msgid="3763669677935623084">"와이파이 다이렉트를 시작하지 못했습니다."</string>
+    <string name="wifi_p2p_enabled_notification_title" msgid="2068321881673734886">"와이파이 다이렉트 켜짐"</string>
     <string name="wifi_p2p_enabled_notification_message" msgid="1638949953993894335">"설정으로 이동하려면 터치하세요."</string>
     <string name="accept" msgid="1645267259272829559">"동의"</string>
     <string name="decline" msgid="2112225451706137894">"거부"</string>
@@ -1124,7 +1124,7 @@
     <string name="wifi_p2p_to_message" msgid="248968974522044099">"받는사람:"</string>
     <string name="wifi_p2p_enter_pin_message" msgid="5920929550367828970">"필수 PIN 입력:"</string>
     <string name="wifi_p2p_show_pin_message" msgid="8530563323880921094">"PIN:"</string>
-    <string name="wifi_p2p_frequency_conflict_message" msgid="7363907213787469151">"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>에 연결되어 있는 동안 일시적으로 휴대전화의 Wi-Fi 연결이 해제됩니다."</string>
+    <string name="wifi_p2p_frequency_conflict_message" msgid="7363907213787469151">"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>에 연결되어 있는 동안 일시적으로 휴대전화의 와이파이 연결이 해제됩니다."</string>
     <string name="select_character" msgid="3365550120617701745">"문자 삽입"</string>
     <string name="sms_control_title" msgid="7296612781128917719">"SMS 메시지를 보내는 중"</string>
     <string name="sms_control_message" msgid="3867899169651496433">"&lt;b&gt;<xliff:g id="APP_NAME">%1$s</xliff:g>&lt;/b&gt;이(가) SMS 메시지를 대량으로 보내고 있습니다. 해당 앱이 메시지를 계속 보내도록 하시겠습니까?"</string>
@@ -1359,12 +1359,12 @@
     <string name="data_usage_3g_limit_title" msgid="7093334419518706686">"2G-3G 데이터 사용중지됨"</string>
     <string name="data_usage_4g_limit_title" msgid="7636489436819470761">"4G 데이터 사용중지됨"</string>
     <string name="data_usage_mobile_limit_title" msgid="7869402519391631884">"모바일 데이터 사용중지됨"</string>
-    <string name="data_usage_wifi_limit_title" msgid="8992154736441284865">"Wi-Fi 데이터 사용중지됨"</string>
+    <string name="data_usage_wifi_limit_title" msgid="8992154736441284865">"와이파이 데이터 사용중지됨"</string>
     <string name="data_usage_limit_body" msgid="3317964706973601386">"사용하려면 터치하세요."</string>
     <string name="data_usage_3g_limit_snoozed_title" msgid="7026739121138005231">"2G - 3G 데이터 제한 초과됨"</string>
     <string name="data_usage_4g_limit_snoozed_title" msgid="1106562779311209039">"4GB의 데이터 제한 초과됨"</string>
     <string name="data_usage_mobile_limit_snoozed_title" msgid="279240572165412168">"모바일 데이터 제한 초과됨"</string>
-    <string name="data_usage_wifi_limit_snoozed_title" msgid="8743856006384825974">"Wi-Fi 데이터 한도 초과됨"</string>
+    <string name="data_usage_wifi_limit_snoozed_title" msgid="8743856006384825974">"와이파이 데이터 한도 초과됨"</string>
     <string name="data_usage_limit_snoozed_body" msgid="7035490278298441767">"<xliff:g id="SIZE">%s</xliff:g> - 지정된 한도 초과"</string>
     <string name="data_usage_restricted_title" msgid="5965157361036321914">"백그라운드 데이터 사용이 제한됨"</string>
     <string name="data_usage_restricted_body" msgid="6741521330997452990">"제한 설정을 삭제하려면 터치하세요."</string>
