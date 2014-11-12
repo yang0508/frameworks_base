@@ -99,7 +99,7 @@ public interface RILConstants {
     int NETWORK_MODE_TD_SCDMA_CDMA_EVDO_GSM_WCDMA  = 21; /*TD-SCDMA,EvDo,CDMA,GSM/WCDMA*/
     int NETWORK_MODE_TD_SCDMA_LTE_CDMA_EVDO_GSM_WCDMA = 22; /* TD-SCDMA/LTE/GSM/WCDMA, CDMA, and
                                                                EvDo */
-    int PREFERRED_NETWORK_MODE      = NETWORK_MODE_LTE_GSM_WCDMA;
+    int PREFERRED_NETWORK_MODE      = NETWORK_MODE_WCDMA_PREF;
 
     int CDMA_CELL_BROADCAST_SMS_DISABLED = 1;
     int CDMA_CELL_BROADCAST_SMS_ENABLED  = 0;
